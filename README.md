@@ -94,26 +94,21 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 <!-- <td><img src="https://skillicons.dev/icons?i=tableau"/></td>
 <td><img src="https://skillicons.dev/icons?i=openai"/></td>
 <td><img src="https://skillicons.dev/icons?i=databricks"/></td> -->
-<td>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</td>
-<td>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-</td>
-<td>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=redis"/></td>
+<td><img src="https://skillicons.dev/icons?i=vscode"/></td>
+<td><img src="https://skillicons.dev/icons?i=linux"/></td>
+<td><img src="https://skillicons.dev/icons?i=git"/></td>
 </tr>
 
 <tr>
-<td><img src="https://skillicons.dev/icons?i=redis"/></td>
+<!-- <td><img src="https://skillicons.dev/icons?i=redis"/></td>
 <td><img src="https://skillicons.dev/icons?i=spark"/></td>
 <td><img src="https://skillicons.dev/icons?i=iceberg"/></td>
 <td><img src="https://skillicons.dev/icons?i=snowflake"/></td>
 <td><img src="https://skillicons.dev/icons?i=minio"/></td>
 <td><img src="https://skillicons.dev/icons?i=vscode"/></td>
 <td><img src="https://skillicons.dev/icons?i=linux"/></td>
-<td><img src="https://skillicons.dev/icons?i=git"/></td>
+<td><img src="https://skillicons.dev/icons?i=git"/></td> -->
 </tr>
 </table>
 
