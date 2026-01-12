@@ -6,15 +6,12 @@
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK">
-    <!-- <img src="https://img.shields.io/badge/Portfolio-E53935?style=for-the-badge&logo=Chrome&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=Chrome&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Portfolio-E53935?style=for-the-badge&logo=Chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-yadav72/">
     <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhishek977266@gmail.com">
-    <!-- <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_RESUME_LINK">
