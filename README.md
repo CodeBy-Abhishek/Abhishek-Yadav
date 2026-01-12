@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Abhishek Yadav</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;AI-Enabled+Systems+%7C+AI+Developer;Cloud+Architecture+%7C+Cybersecurity" />
-</p>
+</p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+ML+Engineer;Cloud-Native+Systems+%26+AI+Pipelines;Production-Ready+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=650&lines=Production-Ready+Software+Engineer;Full-Stack+Developer;Data+Engineer+%7C+Cloud+Engineer;Cloud-Native+Systems+%26+AI+Pipelines;AI-Enabled+Systems+%7C+AI+Developer;Artificial+Intelligence+Machine+Learning;Cloud+Architecture+%7C+Cybersecurity;" />
 </p>
 
 
