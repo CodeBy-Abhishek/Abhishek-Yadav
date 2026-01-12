@@ -10,19 +10,17 @@
   </a>
   <a href="https://www.linkedin.com/in/abhishek-yadav72/">
     <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&cacheSeconds=3600" />
   </a>
   <a href="mailto:abhishek977266@gmail.com">
     <img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Resume-0B1C2D?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Resume-0B1C2D?style=for-the-badge&logo=readthedocs&logoColor=white" />
 
 
 ### Core Engineering Skills
