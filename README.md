@@ -37,13 +37,6 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 ### Tech Stack 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,nodejs,express,python,django,fastapi,mysql,postgres,mongodb,aws,docker,linux,git,github,postman,vscode,tensorflow,pytorch&perline=10" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
