@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-E53935?style=for-the-badge&logo=Chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-yadav72/">
     <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
