@@ -34,23 +34,6 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 
 
 ### Core Engineering Skills
-### Tech Stack 
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,expressjs,nodejs&perline=9" />
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,tensorflow,pytorch,tableau,mysql,postgres,mongodb,&perline=9" />
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,redis,linux,git,vscode,matlab,iceberg,snowflake,minio&perline=9" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
-</p>
 
 ## 🧩 Tech Stack
 
@@ -110,6 +93,14 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 <td><img src="https://skillicons.dev/icons?i=linux"/></td>
 <td><img src="https://skillicons.dev/icons?i=git"/></td> -->
 </tr>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
+</p>
+
 </table>
 
 
