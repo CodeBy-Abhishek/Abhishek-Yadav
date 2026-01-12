@@ -38,7 +38,7 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 ## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mongodb,redis,aws,docker,tensorflow,pytorch,tableau,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,r,sql,postgres,mongodb,redis,aws,docker,tensorflow,pytorch,tableau,git,linux,vscode&perline=7" />
 </p>
 
 
