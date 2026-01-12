@@ -75,7 +75,7 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 <td><img src="https://skillicons.dev/icons?i=django"/></td>
 <td><img src="https://skillicons.dev/icons?i=fastapi"/></td>
 <td><img src="https://skillicons.dev/icons?i=matlab"/></td>
-<td><img src="https://skillicons.dev/icons?i=sql"/></td>
+<td><img src="https://skillicons.dev/icons?i=mysql"/></td>
 <td><img src="https://skillicons.dev/icons?i=postgres"/></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb"/></td>
 <td><img src="https://skillicons.dev/icons?i=redis"/></td>
