@@ -67,11 +67,11 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 <td><img src="https://skillicons.dev/icons?i=react"/></td>
 <td><img src="https://skillicons.dev/icons?i=nextjs"/></td>
 <td><img src="https://skillicons.dev/icons?i=typescript"/></td>
-<td><img src="https://skillicons.dev/icons?i=expressjs"/></td>
 </tr>
 
 
 <tr>
+<td><img src="https://skillicons.dev/icons?i=expressjs"/></td>
 <td><img src="https://skillicons.dev/icons?i=nodejs"/></td>
 <td><img src="https://skillicons.dev/icons?i=python"/></td>
 <td><img src="https://skillicons.dev/icons?i=django"/></td>
