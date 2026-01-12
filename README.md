@@ -54,6 +54,17 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 
 ## 🧩 Tech Stack
 
+<table align="center">
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
 <tr>
 <td><img src="https://skillicons.dev/icons?i=html"/></td>
 <td><img src="https://skillicons.dev/icons?i=css"/></td>
