@@ -93,17 +93,13 @@ I take **end-to-end ownership** — from data ingestion and modeling to scalable
 <td><img src="https://skillicons.dev/icons?i=linux"/></td>
 <td><img src="https://skillicons.dev/icons?i=git"/></td> -->
 </tr>
-
+</table>
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
 </p>
-
-</table>
-
-
 
 ## GitHub Analytics
 
