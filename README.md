@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-yadav72/">
-    <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhishek977266@gmail.com">
     <img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" />
