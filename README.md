@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Building+Production+RAG+and+Agentic+AI+Systems;Anthropic+API+%7C+LangChain+%7C+LangGraph+%7C+ChromaDB+%7C+MCP;Live+Deployed+on+HuggingFace+Spaces;Anthropic+Certified+Developer+%7C+Kanpur+India;Seeking+AI+Engineer+%7C+LLM+Engineer+%7C+GenAI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Building+Production+RAG+and+Agentic+AI+Systems;Anthropic+API+%7C+LangChain+%7C+LangGraph+%7C+ChromaDB+%7C+MCP;Live+Deployed+on+HuggingFace+Spaces;Anthropic+Certified+Developer+%7C+India;Seeking+AI+Engineer+%7C+LLM+Engineer+%7C+GenAI+Developer" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
